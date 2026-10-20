@@ -2,7 +2,7 @@
    karena file ini publik di GitHub Pages. */
 window.APP_CONFIG = Object.freeze({
   // URL Web App Google Apps Script (Deploy → Web app → salin URL yang berakhiran /exec)
-  API_URL: "https://script.google.com/macros/s/GANTI_DENGAN_ID_DEPLOYMENT/exec",
+  API_URL: "https://script.google.com/macros/s/AKfycbxCWfiuAfUSVCtMrhJV6_a5AOEbjkUY3-3FMrUYcQ782CY3EkSLE1AXlvmTm9Ag2HDE/exec",
   APP_NAME: "Dashboard Briguna RO Medan",
   // awalan hash password di browser; harus sama dengan setup() di Apps Script ('briguna')
   HASH_PREFIX: "briguna",
